@@ -1,0 +1,133 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(250, 249, 247);
+}
+
+.navbar {
+    background-color: rgb(0, 5, 99);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.home,
+.universe,
+.reviews,
+.feedback,
+.doelen,
+.leaderboard,
+.meer,
+.profile_meer,
+.credit,
+.xp_bar,
+.rechts {
+    display: flex;
+    align-items: center;
+}
+
+.xp_bar {
+    border-radius: 5px;
+    background-color: #87dbe5;
+    /*progress: rgb(36, 151, 165)*/
+}
+
+.button {
+    align-items: center;
+
+}
+
+.rechts {
+    /*blahaj*/
+    flex-direction: row-reverse;
+    gap: 25px;
+}
+img[alt=profile] {
+    border-radius: 100px;
+}
+
+img[alt=credits_icon],
+img[alt=profile_meer],
+img[alt=reviews_icon],
+img[alt=universe_icon],
+img[alt=feedback_icon],
+img[alt=meer_icon],
+img[alt=doelen_icon],
+img[alt=leaderboard_icon],
+img[alt=home_icon],
+img[alt=profile] {
+    height: 30px;
+}
+
+img[alt=logo_white] {
+    height: 40px;
+}
+
+.midden {
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 1px solid #000000;
+    background-color: white;
+}
+
+table,
+th,
+td {
+    border-bottom: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    width: 1020px;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
+
+.button {
+    border-radius: 5px;
+    background-color: green;
+    width: 50px;
+    height: 25px;
+}
+
+.over_1-1 {
+    align-content: flex-end;
+    background-color: white;
+    border: 1px solid #333;
+    width: 310px;
+    margin-left: 25px;
+}
+
+.website {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+img[alt=growth] {
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    margin-left: 5px;
+}
+
+p {
+    margin-left: 5px;
+}
