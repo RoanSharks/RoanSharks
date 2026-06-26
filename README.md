@@ -3,8 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Ex+Software+Developer;Hardware+Enthusiast;Roblox+Developer;Minecraft+Modder;Always+Building+Something+Cool." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Ex+Software+Developer;Hardware+Enthusiast;Minecraft+Modder;Always+Building+Something+Cool." />
 </p>
+
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/mi-bombo-duolingo-84018/embed/" frameborder="0" scrolling="no"></iframe>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RoanSharks&style=for-the-badge&color=0e75b6"/>
