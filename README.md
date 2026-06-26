@@ -75,11 +75,12 @@ Status......: Building random cool projects...
 
 ---
 
-## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoanSharks&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/RoanSharks?tab=achievements">
+    🏅 View my GitHub Achievements
+  </a>
 </p>
+
 ---
 
 # 🔥 Current Projects
