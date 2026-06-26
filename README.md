@@ -20,7 +20,6 @@ $ whoami
 Name........: Roan
 Username....: RoanSharks
 Location....: 🇳🇱 Netherlands
-Education...: Software Development
 Status......: Building random cool projects...
 ```
 
